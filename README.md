@@ -1,1 +1,2 @@
-# rog
+## rog
+Learn some Rust
